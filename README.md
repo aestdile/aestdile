@@ -1,4 +1,4 @@
-# 👋 Salom, men @aestdile man!
+# Welcome, I'm Eshboyev Mukhtor
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
 
-## 💻 Dasturlash tillari va statistika
+## 💻 Programming Languages and Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" />
@@ -50,18 +50,7 @@
   </div>
 </div>
 
-## 🎵 Spotify
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=aestdile&cover_image=true&theme=novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=aestdile&cover_image=true&theme=novatorem" />
-  </a>
-</div>
-
-<div align="center" style="margin: 20px 0; padding: 20px; border-radius: 10px; border: 1px solid #ff69b4;">
-  <em>" I don't see myself as a visionary at all "</em>
-  <div style="text-align: right; color: #8A9CFF;">- Me</div>
-</div>
 
 ## 📊 Contribution Graph
 
@@ -105,7 +94,7 @@
   </div>
 </div>
 
-## 📈 LeetCode statistikasi
+## 📈 LeetCode Statistics
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
