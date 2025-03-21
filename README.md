@@ -57,27 +57,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1&column=8" alt="Trophy" />
 </div>
 
-
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  .leetcode-card {
-    animation: fadeIn 1.5s ease-in-out;
-  }
-</style>
+## 📈 LeetCode Statistics
 
 <div align="center">
-  <img class="leetcode-card" src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity&ext=heatmap&border=0&radius=50&gradient=true&icon=circle" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity&ext=heatmap&border=0&radius=50&gradient=true&icon=circle" alt="LeetCode Stats" />
 </div>
+
 
 
 
