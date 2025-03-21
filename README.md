@@ -11,7 +11,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aestdile&theme=github_dark)
 
-![Metrics](https://github.com/YOUR_GITHUB_USERNAME/aestdile/blob/main/github-metrics.svg)
+![Metrics](https://github.com/aestdile/aestdile/blob/main/github-metrics.svg)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aestdile&theme=github)
 
