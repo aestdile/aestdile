@@ -62,6 +62,11 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
 </div>
+## 🚀 LeetCode Progress  
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Baloo%20Bhai%202&ext=heatmap" alt="LeetCode Heatmap" />
+</div>
 
 
 ### 🌀 3D Contribution Graph
