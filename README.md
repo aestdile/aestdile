@@ -19,6 +19,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=aestdile&color=blue)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aestdile&theme=github)
 
 
 
