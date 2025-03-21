@@ -64,18 +64,11 @@
   <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
 </div>
 
-## 🌀 3D Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</div>
+### 🌀 3D Contribution Graph
+![GitHub Contribution Snake Animation](https://github.com/aestdile/aestdile/blob/output/github-contribution-grid-snake.svg)
 
-## 🔥 3D Contribution Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" />
-</div>
+### 🔥 3D Contribution Activity
+![3D Contribution](https://raw.githubusercontent.com/aestdile/aestdile/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aestdile&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
