@@ -1,0 +1,27 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Har kuni UTC 00:00 da ishga tushadi
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch LeetCode Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: YOUR_LEETCODE_USERNAME  # O‘z LeetCode username-ingizni yozing
+          hide: true
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Updated LeetCode Stats"
+          git push
