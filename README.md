@@ -29,11 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" />
 </div>
 
-<div align="center">
-  <h3>📊 Top Languages</h3>
-  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/commit_langs.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/repo_langs.svg" width="48%" />
-</div>
+
 
 ## 📊 Contribution Graph
 
