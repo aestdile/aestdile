@@ -57,16 +57,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1&column=8" alt="Trophy" />
 </div>
 
-## 📈 LeetCode Statistics
+📈 LeetCode Statistics
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
 </div>
-## 🚀 LeetCode Progress  
+
+🚀 LeetCode Progress  
+
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Baloo%20Bhai%202&ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=unicorn&ext=heatmap" alt="LeetCode Stats" />
 </div>
+
 
 
 ### 🌀 3D Contribution Graph
