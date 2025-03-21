@@ -13,4 +13,13 @@
 
 ![Metrics](https://github.com/YOUR_GITHUB_USERNAME/aestdile/blob/main/github-metrics.svg)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aestdile&theme=github)
+
+![GitHub metrics](https://metrics.lecoq.io/aestdile)
+
+![Profile views](https://komarev.com/ghpvc/?username=aestdile&color=blue)
+
+
+
+
 
