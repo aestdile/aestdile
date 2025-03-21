@@ -72,7 +72,7 @@
   <text x="50" y="65" font-family="monospace" font-size="14" fill="#ffffff" fill-opacity="0.6">developer.createAmazingThings();</text>
   
   <!-- Name -->
-  <text x="400" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff">Mukhtor Eshboyev</text>
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff">aestdile</text>
   
   <!-- Subtitle -->
   <text x="400" y="140" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Software Developer & Creator</text>
