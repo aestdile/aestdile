@@ -1,55 +1,12 @@
-# Welcome! 👋
+# Welcome, I'm Eshboyev Mukhtor
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+there!+Welcome+to+my+GitHub!;I+love+coding!;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
----
-
-### 🌌 **3D Animatsion Galaxy!**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
 </div>
-
----
-
-### 🌀 **Interactive 3D Globe**
-<div align="center">
-  <a href="https://github.com/aestdile">
-    <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/globe.gif" width="300px">
-  </a>
-</div>
-
----
-
-### 🏆 **GitHub Achievements**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&column=7" />
-</div>
-
----
-
-### 🎮 **Cool Animations**
-<div align="center">
-  <img src="https://github.com/aestdile/aestdile/raw/main/assets/3d-cube.gif" width="200px" />
-</div>
-
----
-
-### 📈 **My Contributions**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aestdile&theme=dracula&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🚀 **Follow Me!**
-<div align="center">
-  <a href="https://t.me/aestdile"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/aestdile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aestdile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
-
 
 ## 🌐 Social Networks
 
@@ -74,13 +31,19 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </div>
 
 ## 💻 Programming Languages and Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" />
+</div>
+
+<div align="center">
+  <h3>📊 Top Languages</h3>
+  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/commit_langs.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/repo_langs.svg" width="48%" />
 </div>
 
 ## 📊 Contribution Graph
@@ -101,19 +64,17 @@
   <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
 </div>
 
-## 🖥️ 3D Contribution Graph
+## 🌀 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
-## 🐍 Contribution Snake Animation
+## 🔥 3D Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aestdile&color=blueviolet&style=for-the-badge" alt="Profile views" />
