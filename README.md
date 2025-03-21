@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </div>
 
 ## 💻 Programming Languages and Statistics
@@ -38,19 +39,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" />
 </div>
-
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <div style="width: 48%;">
-    <h3>Top Languages by Commit</h3>
-    <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/commit_langs.svg" width="100%" />
-  </div>
-  <div style="width: 48%;">
-    <h3>Top Languages by Repo</h3>
-    <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/repo_langs.svg" width="100%" />
-  </div>
-</div>
-
-
 
 ## 📊 Contribution Graph
 
@@ -60,38 +48,8 @@
 
 ## 🏆 GitHub Achievements
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1&column=8" alt="Trophy" />
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
-  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/multilingual-default.png" width="50px" />
-    <div style="color: #ff79c6; margin-top: 5px;">MultiLanguage</div>
-    <div style="color: #f8f8f2; font-size: 12px;">Rainbow Lang User</div>
-    <div style="color: #ffb86c; font-size: 10px;">26pt</div>
-  </div>
-  
-  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50px" />
-    <div style="color: #ff79c6; margin-top: 5px;">Stars</div>
-    <div style="color: #f8f8f2; font-size: 12px;">Super Stargazer</div>
-    <div style="color: #ffb86c; font-size: 10px;">6.4kpt</div>
-  </div>
-  
-  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50px" />
-    <div style="color: #ff79c6; margin-top: 5px;">PullRequest</div>
-    <div style="color: #f8f8f2; font-size: 12px;">Hyper Puller</div>
-    <div style="color: #ffb86c; font-size: 10px;">97pt</div>
-  </div>
-  
-  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50px" />
-    <div style="color: #ff79c6; margin-top: 5px;">Commits</div>
-    <div style="color: #f8f8f2; font-size: 12px;">High Committer</div>
-    <div style="color: #ffb86c; font-size: 10px;">143pt</div>
-  </div>
 </div>
 
 ## 📈 LeetCode Statistics
@@ -100,9 +58,13 @@
   <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
 </div>
 
+## 🖥️ 3D Contribution Graph
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aestdile&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </div>
+
+## 🐍 Contribution Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake-dark.svg">
@@ -111,5 +73,5 @@
 </picture>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contrib" />
+  <img src="https://komarev.com/ghpvc/?username=aestdile&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
