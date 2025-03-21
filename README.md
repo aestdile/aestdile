@@ -1,4 +1,4 @@
-# Welcome, I'm Mukhtor Eshboyev!
+# 👋 Salom, men @aestdile man!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -8,29 +8,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🛠️ Technologies!
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1" alt="Trophy" />
-</div>
-
-## 🔍 Find Me!
-
-## 🌐 Social Networks!
+## 🌐 Social Networks
 
 <div align="center">
   <a href="https://t.me/aestdile"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -43,40 +21,99 @@
   <a href="mailto:aestdile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<!-- GitHub Activity Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=aestdile&theme=radical" width="100%" />
+## 🛠️ Technologies
 
-<!-- SVG Animation  -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
-  <!-- Background gradient -->
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3a1c71;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#d76d77;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffaf7b;stop-opacity:1" />
-    </linearGradient>
-  </defs>
+## 💻 Dasturlash tillari va statistika
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" />
+</div>
+
+<div align="center" style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <div style="width: 48%;">
+    <h3>Top Languages by Commit</h3>
+    <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/commit_langs.svg" width="100%" />
+  </div>
+  <div style="width: 48%;">
+    <h3>Top Languages by Repo</h3>
+    <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/repo_langs.svg" width="100%" />
+  </div>
+</div>
+
+## 🎵 Spotify
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=aestdile&cover_image=true&theme=novatorem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=aestdile&cover_image=true&theme=novatorem" />
+  </a>
+</div>
+
+<div align="center" style="margin: 20px 0; padding: 20px; border-radius: 10px; border: 1px solid #ff69b4;">
+  <em>" I don't see myself as a visionary at all "</em>
+  <div style="text-align: right; color: #8A9CFF;">- Me</div>
+</div>
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aestdile&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1&column=8" alt="Trophy" />
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
+  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/multilingual-default.png" width="50px" />
+    <div style="color: #ff79c6; margin-top: 5px;">MultiLanguage</div>
+    <div style="color: #f8f8f2; font-size: 12px;">Rainbow Lang User</div>
+    <div style="color: #ffb86c; font-size: 10px;">26pt</div>
+  </div>
   
-  <!-- Background Rectangle -->
-  <rect width="800" height="200" rx="10" ry="10" fill="url(#grad)" />
+  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50px" />
+    <div style="color: #ff79c6; margin-top: 5px;">Stars</div>
+    <div style="color: #f8f8f2; font-size: 12px;">Super Stargazer</div>
+    <div style="color: #ffb86c; font-size: 10px;">6.4kpt</div>
+  </div>
   
-  <!-- Decorative Elements -->
-  <circle cx="100" cy="50" r="20" fill="#ffffff" fill-opacity="0.1" />
-  <circle cx="700" cy="150" r="30" fill="#ffffff" fill-opacity="0.1" />
-  <circle cx="200" cy="170" r="15" fill="#ffffff" fill-opacity="0.1" />
-  <circle cx="600" cy="50" r="25" fill="#ffffff" fill-opacity="0.1" />
+  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50px" />
+    <div style="color: #ff79c6; margin-top: 5px;">PullRequest</div>
+    <div style="color: #f8f8f2; font-size: 12px;">Hyper Puller</div>
+    <div style="color: #ffb86c; font-size: 10px;">97pt</div>
+  </div>
   
-  <!-- Code-like decoration elements -->
-  <text x="50" y="45" font-family="monospace" font-size="14" fill="#ffffff" fill-opacity="0.6">const developer = new Developer('aestdile');</text>
-  <text x="50" y="65" font-family="monospace" font-size="14" fill="#ffffff" fill-opacity="0.6">developer.createAmazingThings();</text>
-  
-  <!-- Name -->
-  <text x="400" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff">aestdile</text>
-  
-  <!-- Subtitle -->
-  <text x="400" y="140" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Software Developer & Creator</text>
-</svg>
+  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50px" />
+    <div style="color: #ff79c6; margin-top: 5px;">Commits</div>
+    <div style="color: #f8f8f2; font-size: 12px;">High Committer</div>
+    <div style="color: #ffb86c; font-size: 10px;">143pt</div>
+  </div>
+</div>
+
+## 📈 LeetCode statistikasi
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aestdile&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake-dark.svg">
@@ -84,15 +121,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-![GitHub Snake Light](https://github.com/aestdile/aestdile/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/aestdile/aestdile/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
-## 📈 LeetCode statistikasi
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity)
-
-## 📊 GitHub 3D Contributor
-
-![](./profile-3d-contrib/profile-night-green.svg)
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contrib" />
+</div>
