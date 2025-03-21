@@ -8,71 +8,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
 </div>
 
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes fadeIn {
-      0% { opacity: 0; transform: translateY(10px); }
-      100% { opacity: 1; transform: translateY(0); }
-    }
-    text {
-      font-family: Arial, sans-serif;
-      font-size: 16px;
-      font-weight: bold;
-      fill: white;
-      text-anchor: middle;
-    }
-    rect {
-      rx: 5;
-      ry: 5;
-      stroke-width: 2;
-      stroke: white;
-      animation: fadeIn 1s ease-in-out forwards;
-      opacity: 0;
-    }
-    rect:nth-child(1) { animation-delay: 0.2s; }
-    rect:nth-child(2) { animation-delay: 0.4s; }
-    rect:nth-child(3) { animation-delay: 0.6s; }
-    rect:nth-child(4) { animation-delay: 0.8s; }
-    rect:nth-child(5) { animation-delay: 1.0s; }
-    rect:nth-child(6) { animation-delay: 1.2s; }
-    rect:nth-child(7) { animation-delay: 1.4s; }
-    rect:nth-child(8) { animation-delay: 1.6s; }
-  </style>
+## 🛠️ Technologies
 
-  <!-- C# -->
-  <rect x="10" y="20" width="70" height="30" fill="#239120" />
-  <text x="45" y="40">C#</text>
-
-  <!-- Python -->
-  <rect x="90" y="20" width="90" height="30" fill="#3776AB" />
-  <text x="135" y="40">Python</text>
-
-  <!-- JavaScript -->
-  <rect x="190" y="20" width="110" height="30" fill="#F7DF1E" />
-  <text x="245" y="40" fill="black">JavaScript</text>
-
-  <!-- HTML5 -->
-  <rect x="310" y="20" width="80" height="30" fill="#E34F26" />
-  <text x="350" y="40">HTML5</text>
-
-  <!-- CSS3 -->
-  <rect x="400" y="20" width="80" height="30" fill="#1572B6" />
-  <text x="440" y="40">CSS3</text>
-
-  <!-- .NET -->
-  <rect x="490" y="20" width="70" height="30" fill="#512BD4" />
-  <text x="525" y="40">.NET</text>
-
-  <!-- PostgreSQL -->
-  <rect x="10" y="60" width="120" height="30" fill="#336791" />
-  <text x="70" y="80">PostgreSQL</text>
-
-  <!-- T-SQL -->
-  <rect x="140" y="60" width="70" height="30" fill="#CC0000" />
-  <text x="175" y="80">T-SQL</text>
-
-</svg>
-
+<div align="center" class="tech-stack">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</div>
 
 
 ## 💻 Programming Languages and Statistics
