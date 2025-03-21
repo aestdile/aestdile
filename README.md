@@ -68,8 +68,9 @@
 
 ## 🚀 LeetCode Progress
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&ext=heatmap&border=0&radius=50" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&ext=heatmap&border=0&radius=50&gradient=true&icon=circle" alt="LeetCode Stats" />
 </div>
+
 
 
 
