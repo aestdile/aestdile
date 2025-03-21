@@ -8,47 +8,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
 </div>
 
-<style>
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  .tech-stack img {
-    animation: fadeInUp 1.5s ease-in-out;
-    margin: 5px;
-  }
-
-  .tech-stack img:nth-child(1) { animation-delay: 0.2s; }
-  .tech-stack img:nth-child(2) { animation-delay: 0.4s; }
-  .tech-stack img:nth-child(3) { animation-delay: 0.6s; }
-  .tech-stack img:nth-child(4) { animation-delay: 0.8s; }
-  .tech-stack img:nth-child(5) { animation-delay: 1.0s; }
-  .tech-stack img:nth-child(6) { animation-delay: 1.2s; }
-  .tech-stack img:nth-child(7) { animation-delay: 1.4s; }
-  .tech-stack img:nth-child(8) { animation-delay: 1.6s; }
-  .tech-stack img:nth-child(9) { animation-delay: 1.8s; }
-</style>
-
-## 🛠️ Technologies
-
-<div align="center" class="tech-stack">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</div>
+![Technologies](https://raw.githubusercontent.com/aestdile/aestdile/main/technologies.svg)
 
 
 ## 💻 Programming Languages and Statistics
