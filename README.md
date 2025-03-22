@@ -2,12 +2,9 @@
 
 
 <h1>
-   <img src="https://img.shields.io/badge/WELCOME,%20I'M%20MUKHTOR%20ESHBOYEV-4CAF50?style=for-the-badge&logoColor=white&color=4CAF50" />
+      Welcome, I'm Mukhtor Eshboyev
 </h1>
 
-
-
-<br>
 
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
 <img src="https://img.shields.io/badge/Junior%20Developer-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
