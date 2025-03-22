@@ -1,4 +1,5 @@
-# Welcome, I'm Eshboyev Mukhtor 🟠🟡🟢🔵🟣
+<img src="https://raw.githubusercontent.com/aestdile/aestdile/main/gradient-text.svg" width="600">
+
 
 
 
