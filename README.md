@@ -1,9 +1,10 @@
 <div align="center">
 
 
-    
-
+<h1>
    <img src="https://img.shields.io/badge/WELCOME,%20I'M%20MUKHTOR%20ESHBOYEV-4CAF50?style=for-the-badge&logoColor=white&color=4CAF50" />
+</h1>
+
 
 
 <br>
