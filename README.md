@@ -8,9 +8,8 @@
 </div>
 
 
+<hr style="border: 1px solid gray; width: 100%;">
 
-
-        
 
 
 <div align="center">
