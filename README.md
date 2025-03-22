@@ -1,4 +1,5 @@
-![Welcome](https://via.placeholder.com/800x200/ff7e5f/feb47b?text=Welcome,+I'm+Eshboyev+Mukhtor)
+# Welcome, I'm Eshboyev Mukhtor 🟠🟡🟢🔵🟣
+
 
 
 <div align="center">
