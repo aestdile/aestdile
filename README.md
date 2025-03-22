@@ -15,7 +15,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 Skills
+## 🏆 Foreign Languages
 
 <div align="center">
     <img src="https://img.shields.io/badge/🇬🇧%20ENGLISH-B2-blue?style=for-the-badge&labelColor=gray" />
