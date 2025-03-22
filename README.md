@@ -2,7 +2,7 @@
         Welcome, I'm Mukhtor Eshboyev      
 </h1>
 <h2>
-       C# .Net Junior Developer 
+                       C# .Net Junior Developer 
 </h2>
         
 
