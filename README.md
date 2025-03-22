@@ -4,9 +4,23 @@
 <h2>
                        C# .Net Junior Developer 
 </h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
+</div>
+
         
 
+## 🏆 Skills
 
+<div align="center">
+  <img src="https://img.shields.io/badge/🇬🇧 English-B2-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇷🇺 Russian-A1-red?style=for-the-badge" />
+</div>
 
 
 <div align="center">
