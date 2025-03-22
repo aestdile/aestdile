@@ -20,6 +20,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
 </div>
 
+
+<hr style="border: 1px solid gray; width: 100%;">
+
 ## 🏆 Foreign Languages
 
 <div align="center">
@@ -27,6 +30,8 @@
     <img src="https://img.shields.io/badge/🇷🇺%20RUSSIAN-A1-red?style=for-the-badge&labelColor=gray" />
 </div>
 
+
+<hr style="border: 1px solid gray; width: 100%;">
 
 ## 🛠️ Technologies
 
@@ -43,6 +48,8 @@
 </div>
 
 
+<hr style="border: 1px solid gray; width: 100%;">
+
 ## 💻 Programming Languages and Statistics
 
 <div align="center">
@@ -50,6 +57,7 @@
 </div>
 
 
+<hr style="border: 1px solid gray; width: 100%;">
 
 ## 📊 Contribution Graph
 
@@ -57,17 +65,26 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aestdile&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
+
+<hr style="border: 1px solid gray; width: 100%;">
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1&column=8" alt="Trophy" />
 </div>
 
+
+<hr style="border: 1px solid gray; width: 100%;">
+
 ## 📈 LeetCode Statistics
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity&ext=heatmap&border=0&radius=50&gradient=true&icon=circle" alt="LeetCode Stats" />
 </div>
+
+
+<hr style="border: 1px solid gray; width: 100%;">
 
 ## 🌐 Social Networks
 
