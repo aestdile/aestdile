@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/aestdile/aestdile/main/gradient-text.svg" width="600">
+Welcome, I'm Mukhtor Eshboyev
+        C# .Net Junior Developer
 
 
 
