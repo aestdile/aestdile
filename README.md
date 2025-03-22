@@ -1,12 +1,12 @@
 <h1>
-        Welcome, I'm Mukhtor Eshboyev      
+        Welcome, I'm Mukhtor Eshboyev  
+        <div align="center">
+            <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Junior%20Developer-blueviolet?style=for-the-badge&labelColor=gray" />
+        </div>
+
 </h1>
 
-## 💻 Who I'm!?
 
-<div align="center">
-    <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Junior%20Developer-blueviolet?style=for-the-badge&labelColor=gray" />
-</div>
 
         
 
