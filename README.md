@@ -1,11 +1,21 @@
 <div align="center">
 
-# Welcome, I'm Mukhtor Eshboyev  
+<h1 style="
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 15px 30px; 
+    border-radius: 10px; 
+    display: inline-block;">
+    Welcome, I'm Mukhtor Eshboyev
+</h1>
+
+<br>
 
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
 <img src="https://img.shields.io/badge/Junior%20Developer-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
 
 </div>
+
 
 
 <hr style="border: 1px solid gray; width: 100%;">
