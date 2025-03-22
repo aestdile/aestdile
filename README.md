@@ -3,7 +3,7 @@
 <h1 
     
 </h1>
-    <img src="https://img.shields.io/badge/Welcome,%100I'm%100Mukhtor Eshboyev-Red?style=for-the-badge&logo=visualstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Welcome,%60I'm%60Mukhtor Eshboyev-Red?style=for-the-badge&logo=visualstudio&logoColor=white" />
 <br>
 
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
