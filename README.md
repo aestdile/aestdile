@@ -1,4 +1,5 @@
-# Welcome, I'm Eshboyev Mukhtor
+![Welcome](https://via.placeholder.com/800x200/ff7e5f/feb47b?text=Welcome,+I'm+Eshboyev+Mukhtor)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
