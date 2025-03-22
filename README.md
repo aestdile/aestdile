@@ -1,14 +1,9 @@
 <div align="center">
 
-<h1 style="
-    background-color: #4CAF50; 
-    color: white; 
-    padding: 15px 30px; 
-    border-radius: 10px; 
-    display: inline-block;">
-    Welcome, I'm Mukhtor Eshboyev
+<h1 
+    
 </h1>
-
+    <img src="https://img.shields.io/badge/Welcome,%20I'm%20Mukhtor Eshboyev-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
 <br>
 
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
