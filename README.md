@@ -22,7 +22,8 @@
 ## 🎓 Education
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Tashkent%20State%20Technical%20University-Bachelor%20Degree-blue?style=for-the-badge&logo=university&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tashkent%20State%20Technical%20University-Graduated%20Bachelor%20Degree-blue?style=for-the-badge&logo=university&logoColor=white" />
+    <img src="https://img.shields.io/badge/Information%20Technologies%20Engineer-Scholarship%20Based-green?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </div>
 
 ### Additional Training
