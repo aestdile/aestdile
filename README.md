@@ -25,6 +25,8 @@
     <img alt="Scholarship" src="https://img.shields.io/badge/Scholarship_Based-red?style=for-the-badge" />
 </div>
 
+<hr style="border: 1px solid gray; width: 100%;">
+
 ## 🎯 Additional Training
 <div align="center">
     <img alt="Mohir Dev" src="https://img.shields.io/badge/Mohir_Dev-yellow?style=for-the-badge" />
@@ -34,6 +36,8 @@
     <img alt="Najot Ta'lim" src="https://img.shields.io/badge/Najot_Ta'lim-pink?style=for-the-badge" />
     <img alt="IT Education" src="https://img.shields.io/badge/IT_Education-red?style=for-the-badge" />
 </div>
+
+<hr style="border: 1px solid gray; width: 100%;">
 
 ## 🏆 Foreign Languages
 <div align="center">
