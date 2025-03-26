@@ -17,11 +17,13 @@
 
 <hr style="border: 1px solid gray; width: 100%;">
 
-🎓 Education
+🎓 #Education
 <div align="center"> <img src="https://img.shields.io/badge/Tashkent%20State%20Technical%20University-Graduated%20Bachelor%20Degree-0078D7?style=for-the-badge&logo=university&logoColor=white" /> <img src="https://img.shields.io/badge/Information%20Technologies%20Engineer-Scholarship%20Based-008000?style=for-the-badge&logo=graduation-cap&logoColor=white" /> </div>
-🎯 Additional Training
+
+🎯 #Additional Training
 <div align="center"> <img src="https://img.shields.io/badge/Mohir%20Dev-Programming-FF8C00?style=for-the-badge" /> <img src="https://img.shields.io/badge/PDP%20Academy-Software%20Development-32CD32?style=for-the-badge" /> <img src="https://img.shields.io/badge/Najot%20Ta'lim-IT%20Education-DC143C?style=for-the-badge" /> </div> <hr style="border: 1px solid gray; width: 100%;">
-🏆 Foreign Languages
+
+🏆 #Foreign Languages
 <div align="center"> <img src="https://img.shields.io/badge/🇬🇧%20ENGLISH-B2-1E90FF?style=for-the-badge&labelColor=gray" /> <img src="https://img.shields.io/badge/🇷🇺%20RUSSIAN-A1-FF4500?style=for-the-badge&labelColor=gray" /> </div>
 
 <hr style="border: 1px solid gray; width: 100%;">
