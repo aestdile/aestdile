@@ -63,9 +63,6 @@
 <hr style="border: 1px solid gray; width: 100%;">
 
 
-## 📊 Most Used Languages
-![GitHub Metrics](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/github-metrics.svg)
-
 
 
 
