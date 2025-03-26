@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Information%20Technologies%20Engineer-Scholarship%20Based-green?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </div>
 
-## Additional Training
+## 🎯Additional Training
 <div align="center">
     <img src="https://img.shields.io/badge/Mohir%20Dev-Programming-orange?style=for-the-badge" />
     <img src="https://img.shields.io/badge/PDP%20Academy-Software%20Development-green?style=for-the-badge" />
