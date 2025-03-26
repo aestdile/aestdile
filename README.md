@@ -24,6 +24,8 @@
     <img src="https://img.shields.io/badge/Information%20Technologies%20Engineer-Scholarship%20Based-green?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </div>
 
+<hr style="border: 1px solid gray; width: 100%;">
+
 ## 🎯Additional Training
 <div align="center">
     <img src="https://img.shields.io/badge/Mohir%20Dev-Programming-orange?style=for-the-badge" />
