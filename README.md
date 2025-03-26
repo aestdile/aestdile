@@ -62,8 +62,7 @@
 
 <hr style="border: 1px solid gray; width: 100%;">
 
-![lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aestdile&theme=dracula&exclude=html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aestdile&theme=dracula)
+
 
 
 
