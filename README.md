@@ -63,8 +63,9 @@
 <hr style="border: 1px solid gray; width: 100%;">
 
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical)
+## 📊 Most Used Languages
+![GitHub Metrics](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/github-metrics.svg)
+
 
 
 
