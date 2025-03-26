@@ -13,9 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 <hr style="border: 1px solid gray; width: 100%;">
 
@@ -49,11 +47,9 @@
 <div align="center" class="tech-stack">
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MS--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
