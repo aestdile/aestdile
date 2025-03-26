@@ -19,23 +19,29 @@
 
 ## 🎓 Education
 <div align="center">
-    <img src="https://img.shields.io/badge/Tashkent%20State%20Technical%20University-Graduated%20Bachelor%20Degree-blue?style=for-the-badge&logo=university&logoColor=white" />
-    <img src="https://img.shields.io/badge/Information%20Technologies%20Engineer-Scholarship%20Based-green?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+    <img alt="University" src="https://img.shields.io/badge/Tashkent_State_Technical_University-yellow?style=for-the-badge&color=yellow&logoColor=black" />
+    <img alt="Degree" src="https://img.shields.io/badge/Graduated_Bachelor_Degree-blue?style=for-the-badge" />
+    <img alt="Speciality" src="https://img.shields.io/badge/Information_Technologies_Engineer-green?style=for-the-badge&color=green&logoColor=white" />
+    <img alt="Scholarship" src="https://img.shields.io/badge/Scholarship_Based-red?style=for-the-badge" />
 </div>
 
 ## 🎯 Additional Training
 <div align="center">
-    <img src="https://img.shields.io/badge/Mohir%20Dev-Programming-orange?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/PDP%20Academy-Software%20Development-green?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Najot%20Ta'lim-IT%20Education-red?style=for-the-badge" />
+    <img alt="Mohir Dev" src="https://img.shields.io/badge/Mohir_Dev-yellow?style=for-the-badge" />
+    <img alt="Programming" src="https://img.shields.io/badge/Programming-orange?style=for-the-badge" />
+    <img alt="PDP Academy" src="https://img.shields.io/badge/PDP_Academy-purple?style=for-the-badge" />
+    <img alt="Software Development" src="https://img.shields.io/badge/Software_Development-green?style=for-the-badge" />
+    <img alt="Najot Ta'lim" src="https://img.shields.io/badge/Najot_Ta'lim-pink?style=for-the-badge" />
+    <img alt="IT Education" src="https://img.shields.io/badge/IT_Education-red?style=for-the-badge" />
 </div>
 
 ## 🏆 Foreign Languages
 <div align="center">
-    <img src="https://img.shields.io/badge/🇬🇧%20ENGLISH-B2-blue?style=for-the-badge&labelColor=gray" />
-    <img src="https://img.shields.io/badge/🇷🇺%20RUSSIAN-A1-red?style=for-the-badge&labelColor=gray" />
+    <img alt="English" src="https://img.shields.io/badge/🇬🇧_ENGLISH-blue?style=for-the-badge&labelColor=gray" />
+    <img alt="English Level" src="https://img.shields.io/badge/B2-darkblue?style=for-the-badge" />
+    <img alt="Russian" src="https://img.shields.io/badge/🇷🇺_RUSSIAN-red?style=for-the-badge&labelColor=gray" />
+    <img alt="Russian Level" src="https://img.shields.io/badge/A1-darkred?style=for-the-badge" />
 </div>
-
 <hr style="border: 1px solid gray; width: 100%;">
 
 ## 🛠️ Technologies
