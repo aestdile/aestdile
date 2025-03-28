@@ -15,7 +15,7 @@ jobs:
       - name: Fetch LeetCode Stats
         uses: anuraghazra/github-readme-stats@master
         with:
-          username: YOUR_LEETCODE_USERNAME  # O‘z LeetCode username-ingizni yozing
+          username: aestdile  # O‘z LeetCode username-ingizni yozing
           hide: true
 
       - name: Commit and Push Changes
