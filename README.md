@@ -9,6 +9,20 @@
 
 <hr style="border: 1px solid gray; width: 100%;">
 
+# 📜 Fun Fact  
+
+> 💡 **Dasturlashda eng qiyin narsa nima deb o'ylaysiz?**  
+
+<div align="center">
+  
+  ## 🎯 Nomenklatura! 🤣  
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300px">
+
+</div>
+
+
+<hr style="border: 1px solid gray; width: 100%;">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
