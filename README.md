@@ -111,16 +111,5 @@
   <a href="mailto:aestdile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<hr style="border: 1px solid gray; width: 100%;">
 
-# 📜 Fun Fact  
-
-> 💡 **What do you think is the most difficult thing about programming?**  
-
-<div align="center">
-  
-  ## 🎯 Nomenklatura! 🤣  
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300px">
-
-</div>
 
