@@ -115,7 +115,7 @@
 
 # 📜 Fun Fact  
 
-> 💡 **Dasturlashda eng qiyin narsa nima deb o'ylaysiz?**  
+> 💡 **What do you think is the most difficult thing about programming?**  
 
 <div align="center">
   
