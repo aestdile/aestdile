@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="MuhammadAbdulloh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdulloh&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="Mukhtor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
