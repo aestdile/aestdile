@@ -90,7 +90,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1&column=6" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1&column=10" alt="Trophy" />
 </div>
 
 <hr style="border: 1px solid gray; width: 100%;">
