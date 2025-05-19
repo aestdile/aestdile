@@ -50,7 +50,7 @@
     <img alt="English" src="https://img.shields.io/badge/🇬🇧_ENGLISH-blue?style=for-the-badge&labelColor=gray" />
     <img alt="English Level" src="https://img.shields.io/badge/B2-darkblue?style=for-the-badge" />
     <img alt="Russian" src="https://img.shields.io/badge/🇷🇺_RUSSIAN-red?style=for-the-badge&labelColor=gray" />
-    <img alt="Russian Level" src="https://img.shields.io/badge/A1-darkred?style=for-the-badge" />
+    <img alt="Russian Level" src="https://img.shields.io/badge/Conversation-darkred?style=for-the-badge" />
 </div>
 <hr style="border: 1px solid gray; width: 100%;">
 
