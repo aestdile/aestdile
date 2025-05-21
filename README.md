@@ -7,7 +7,7 @@
 
 🎓 Aspiring .NET Developer | 💡 Problem Solver | 🚀 Always Learning
 
-I specialize in building backend applications with **C#**, **ASP.NET**, and **EF Core**. Passionate about clean code, strong architecture, and improving user experience through efficient software solutions.
+I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFULL API** and **EF Core**. Passionate about clean code, strong architecture, and improving user experience through efficient software solutions.
 
 </div>
 
