@@ -2,13 +2,12 @@
 
 # Welcome, I'm Mukhtor Eshboyev🪄
 
+<img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
+<img src="https://img.shields.io/badge/Junior%20Developer-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
+
 🎓 Aspiring .NET Developer | 💡 Problem Solver | 🚀 Always Learning
 
 I specialize in building backend applications with **C#**, **ASP.NET**, and **EF Core**. Passionate about clean code, strong architecture, and improving user experience through efficient software solutions.
-
-
-<img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
-<img src="https://img.shields.io/badge/Junior%20Developer-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
 
 </div>
 
@@ -59,7 +58,7 @@ I specialize in building backend applications with **C#**, **ASP.NET**, and **EF
 </div>
 <hr style="border: 1px solid gray; width: 100%;">
 
-🛠️ Technologies
+## 🛠️ Technologies
 <div 
   align="center" class="tech-stack"> 
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
@@ -77,7 +76,7 @@ I specialize in building backend applications with **C#**, **ASP.NET**, and **EF
 <hr style="border: 1px solid gray; width: 100%;">
 
 
-🧠 Soft Skills
+## 🧠 Soft Skills
 
 <div align="center" class="soft-skills">
   <img src="https://img.shields.io/badge/-Teamwork-4CAF50?style=for-the-badge&logo=people&logoColor=white" />
