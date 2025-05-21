@@ -72,6 +72,18 @@
 <hr style="border: 1px solid gray; width: 100%;">
 
 
+🧠 Soft Skills
+
+<div align="center" class="soft-skills">
+  <img src="https://img.shields.io/badge/-Teamwork-4CAF50?style=for-the-badge&logo=people&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Problem%20Solving-F44336?style=for-the-badge&logo=brains&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Quick%20Learning-2196F3?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Responsibility-9C27B0?style=for-the-badge&logo=balance-scale&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Stress%20Tolerance-FF9800?style=for-the-badge&logo=heartbeat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Time%20Management-3F51B5?style=for-the-badge&logo=clock&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Communication%20Skills-00BCD4?style=for-the-badge&logo=chat&logoColor=white" />
+</div>
+
 
 
 
