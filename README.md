@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
 <img src="https://img.shields.io/badge/Junior%20Developer-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
 
+---
 🎓 Aspiring .NET Developer | 💡 Problem Solver | 🚀 Always Learning
 
 I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFULL API** and **EF Core**. Passionate about clean code, strong architecture, and improving user experience through efficient software solutions.
