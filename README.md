@@ -88,6 +88,7 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
   <img src="https://img.shields.io/badge/-Stress%20Tolerance-FF9800?style=for-the-badge&logo=heartbeat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Time%20Management-3F51B5?style=for-the-badge&logo=clock&logoColor=white" />
   <img src="https://img.shields.io/badge/-Communication%20Skills-00BCD4?style=for-the-badge&logo=chat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-High%20Logic-795548?style=for-the-badge&logo=atom&logoColor=white" />
 </div>
 
 
