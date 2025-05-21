@@ -1,5 +1,6 @@
-<div align="center">
 ---
+<div align="center">
+
 # Welcome, I'm Mukhtor Eshboyev🪄
 ---
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
