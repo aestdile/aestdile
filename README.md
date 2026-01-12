@@ -92,8 +92,6 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 </div>
 
 
-
-
 ## 💻 Programming Languages and Statistics
 
 <div align="center">
