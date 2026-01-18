@@ -18,15 +18,6 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
   <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-## 🔥 Streak stats
-
-<p align="center">
-  <a href="#">
-    <img title="🔥 Streak stats" alt="Mukhtor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-<hr style="border: 1px solid gray; width: 100%;">
 
 ## 🎓 Education
 <div align="center">
