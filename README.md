@@ -21,11 +21,9 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 </div>
 
 ## 🔥 Streak Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aestdile&theme=monokai" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=aestdile&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
-
 <hr style="border: 1px solid gray; width: 100%;">
 
 ## 🎓 Education
