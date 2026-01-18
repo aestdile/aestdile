@@ -1,56 +1,104 @@
-# Welcome, I'm Eshboyev Mukhtor
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+# Welcome, I'm Mukhtor Eshboyev🪄
+
+<img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />  
+<img src="https://img.shields.io/badge/Junior%20Developer-Purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
+
+
+🎓 Aspiring .NET Developer | 💡 Problem Solver | 🚀 Always Learning
+
+I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFULL API** and **EF Core**. Passionate about clean code, strong architecture, and improving user experience through efficient software solutions.
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=radical" alt="GitHub Streak" />
-</div>
+<hr style="border: 1px solid gray; width: 100%;">
 
-## 🌐 Social Networks
+## 🏆 GitHub Stats
 
 <div align="center">
-  <a href="https://t.me/aestdile"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/aestdile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/aestdile"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/aestdile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@aestdile"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/aestdile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://facebook.com/aestdile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:aestdile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aestdile&theme=monokai" alt="Streak Stats" />
+</p>
+
+<hr style="border: 1px solid gray; width: 100%;">
+
+## 🎓 Education
+<div align="center">
+    <img alt="University" src="https://img.shields.io/badge/Tashkent_State_Technical_University-yellow?style=for-the-badge&color=yellow&logoColor=black" />
+    <img alt="Degree" src="https://img.shields.io/badge/Graduated_Bachelor_Degree-blue?style=for-the-badge" />
+    <img alt="Speciality" src="https://img.shields.io/badge/Information_Technologies_Engineer-green?style=for-the-badge&color=green&logoColor=white" />
+    <img alt="Scholarship" src="https://img.shields.io/badge/Scholarship_Based-red?style=for-the-badge" />
+</div>
+
+<hr style="border: 1px solid gray; width: 100%;">
+
+## 🎯 Additional Training
+<div align="center">
+    <img alt="Mohir Dev" src="https://img.shields.io/badge/Mohir_Dev-yellow?style=for-the-badge" />
+    <img alt="Programming" src="https://img.shields.io/badge/Programming-orange?style=for-the-badge" />
+    <img alt="PDP Academy" src="https://img.shields.io/badge/PDP_Academy-purple?style=for-the-badge" />
+    <img alt="Software Development" src="https://img.shields.io/badge/Software_Development-green?style=for-the-badge" />
+    <img alt="Najot Ta'lim" src="https://img.shields.io/badge/Najot_Ta'lim-pink?style=for-the-badge" />
+    <img alt="IT Education" src="https://img.shields.io/badge/IT_Education-red?style=for-the-badge" />
+</div>
+
+<hr style="border: 1px solid gray; width: 100%;">
+
+## 🏆 Foreign Languages
+<div align="center">
+    <img alt="English" src="https://img.shields.io/badge/🇬🇧_ENGLISH-blue?style=for-the-badge&labelColor=gray" />
+    <img alt="English Level" src="https://img.shields.io/badge/B2-darkblue?style=for-the-badge" />
+    <img alt="Russian" src="https://img.shields.io/badge/🇷🇺_RUSSIAN-red?style=for-the-badge&labelColor=gray" />
+    <img alt="Russian Level" src="https://img.shields.io/badge/Conversation-darkred?style=for-the-badge" />
+</div>
+<hr style="border: 1px solid gray; width: 100%;">
 
 ## 🛠️ Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<div 
+  align="center" class="tech-stack"> 
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-RESTful%20API-00BCD4?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/-xUnit.net-2C8EBB?style=for-the-badge&logo=.net&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-MS--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-EF%20Core-6C3483?style=for-the-badge&logo=dotnet&logoColor=white" /> 
+  <img alt="PDP Academy" src="https://img.shields.io/badge/Git_GitHub-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 </div>
+
+<hr style="border: 1px solid gray; width: 100%;">
+
+
+## 🧠 Soft Skills
+
+<div align="center" class="soft-skills">
+  <img src="https://img.shields.io/badge/-Teamwork-4CAF50?style=for-the-badge&logo=people&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Problem%20Solving-F44336?style=for-the-badge&logo=brains&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Quick%20Learning-2196F3?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Responsibility-9C27B0?style=for-the-badge&logo=balance-scale&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Stress%20Tolerance-FF9800?style=for-the-badge&logo=heartbeat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Time%20Management-3F51B5?style=for-the-badge&logo=clock&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Communication%20Skills-00BCD4?style=for-the-badge&logo=chat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-High%20Logic-795548?style=for-the-badge&logo=atom&logoColor=white" />
+</div>
+
 
 ## 💻 Programming Languages and Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
 
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <div style="width: 48%;">
-    <h3>Top Languages by Commit</h3>
-    <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/commit_langs.svg" width="100%" />
-  </div>
-  <div style="width: 48%;">
-    <h3>Top Languages by Repo</h3>
-    <img src="https://raw.githubusercontent.com/aestdile/aestdile/main/assets/repo_langs.svg" width="100%" />
-  </div>
-</div>
-
-
+<hr style="border: 1px solid gray; width: 100%;">
 
 ## 📊 Contribution Graph
 
@@ -58,58 +106,37 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aestdile&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
+<hr style="border: 1px solid gray; width: 100%;">
+
 ## 🏆 GitHub Achievements
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=aestdile&theme=radical&no-frame=true&row=1&column=8" alt="Trophy" />
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
-  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/multilingual-default.png" width="50px" />
-    <div style="color: #ff79c6; margin-top: 5px;">MultiLanguage</div>
-    <div style="color: #f8f8f2; font-size: 12px;">Rainbow Lang User</div>
-    <div style="color: #ffb86c; font-size: 10px;">26pt</div>
-  </div>
-  
-  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50px" />
-    <div style="color: #ff79c6; margin-top: 5px;">Stars</div>
-    <div style="color: #f8f8f2; font-size: 12px;">Super Stargazer</div>
-    <div style="color: #ffb86c; font-size: 10px;">6.4kpt</div>
-  </div>
-  
-  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50px" />
-    <div style="color: #ff79c6; margin-top: 5px;">PullRequest</div>
-    <div style="color: #f8f8f2; font-size: 12px;">Hyper Puller</div>
-    <div style="color: #ffb86c; font-size: 10px;">97pt</div>
-  </div>
-  
-  <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 150px; text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50px" />
-    <div style="color: #ff79c6; margin-top: 5px;">Commits</div>
-    <div style="color: #f8f8f2; font-size: 12px;">High Committer</div>
-    <div style="color: #ffb86c; font-size: 10px;">143pt</div>
-  </div>
+<div align="center">
+  ![Followers](https://img.shields.io/github/followers/aestdile?label=Followers&style=social)
+  ![Commits](https://img.shields.io/github/commit-activity/m/aestdile?style=flat-square)
+  ![PRs](https://img.shields.io/github/issues-pr/aestdile?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/aestdile?style=flat-square)
+  ![Repos](https://img.shields.io/github/repos/aestdile?style=flat-square)
 </div>
 
 ## 📈 LeetCode Statistics
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/aestdile?theme=dark&font=Roboto&ext=activity&ext=heatmap&border=0&radius=50&gradient=true&icon=circle" alt="LeetCode Stats" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aestdile&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
+<hr style="border: 1px solid gray; width: 100%;">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aestdile/aestdile/output/github-contribution-grid-snake.svg">
-</picture>
+## 🌐 Social Networks
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contrib" />
+  <a href="https://t.me/aestdile"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/aestdile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/aestdile"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/mukhtor-eshboyev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@aestdile"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/aestdile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/aestdile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:aestdile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/aestdile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="tel:+998772672774"><img src="https://img.shields.io/badge/Phone:+998772672774-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
