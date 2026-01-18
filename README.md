@@ -107,14 +107,13 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 <hr style="border: 1px solid gray; width: 100%;">
 
 ## 🏆 GitHub Achievements
-
 <div align="center">
-  ![Followers](https://img.shields.io/github/followers/aestdile?label=Followers&style=social)
-  ![Commits](https://img.shields.io/github/commit-activity/m/aestdile?style=flat-square)
-  ![PRs](https://img.shields.io/github/issues-pr/aestdile?style=flat-square)
-  ![Stars](https://img.shields.io/github/stars/aestdile?style=flat-square)
-  ![Repos](https://img.shields.io/github/repos/aestdile?style=flat-square)
+  <img src="https://img.shields.io/github/followers/aestdile?label=Followers&style=for-the-badge&logo=github&color=red" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/aestdile&style=for-the-badge&logo=github&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=$.totalCommits&url=https://github-contributions-api.jogruber.de/v4/aestdile?y=last&style=for-the-badge&logo=github&color=blue" alt="Commits" />
+  <img src="https://komarev.com/ghpvc/?username=aestdile&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
+<div align="center" style="margin-top: 20px;">>
 
 ## 📈 LeetCode Statistics
 
