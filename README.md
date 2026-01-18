@@ -108,15 +108,7 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 
 <hr style="border: 1px solid gray; width: 100%;">
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  ![Followers](https://img.shields.io/github/followers/aestdile?label=Followers&style=social)
-  ![Commits](https://img.shields.io/github/commit-activity/m/aestdile?style=flat-square)
-  ![PRs](https://img.shields.io/github/issues-pr/aestdile?style=flat-square)
-  ![Stars](https://img.shields.io/github/stars/aestdile?style=flat-square)
-  ![Repos](https://img.shields.io/github/repos/aestdile?style=flat-square)
-</div>
 
 ## 📈 LeetCode Statistics
 
