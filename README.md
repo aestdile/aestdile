@@ -14,19 +14,17 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 
 <hr style="border: 1px solid gray; width: 100%;">
 
+## 🏆 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🔥 Streak stats
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aestdile&theme=monokai" alt="Streak Stats" />
 </p>
-
-
-<hr style="border: 1px solid gray; width: 100%;">
-
 
 <hr style="border: 1px solid gray; width: 100%;">
 
@@ -113,18 +111,12 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ![Followers](https://img.shields.io/github/followers/aestdile?label=Followers&style=social)
+  ![Commits](https://img.shields.io/github/commit-activity/m/aestdile?style=flat-square)
+  ![PRs](https://img.shields.io/github/issues-pr/aestdile?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/aestdile?style=flat-square)
+  ![Repos](https://img.shields.io/github/repos/aestdile?style=flat-square)
 </div>
-
-## 🏅 Badges / Achievements
-
-<div align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/aestdile?label=Followers&style=social)
-  ![GitHub commits](https://img.shields.io/github/commit-activity/m/aestdile?style=flat-square)
-  ![GitHub PRs](https://img.shields.io/github/issues-pr/aestdile?style=flat-square)
-</div>
-
-<hr style="border: 1px solid gray; width: 100%;">
 
 ## 📈 LeetCode Statistics
 
