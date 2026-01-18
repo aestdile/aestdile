@@ -15,16 +15,18 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 <hr style="border: 1px solid gray; width: 100%;">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🔥 Streak stats
 
 <p align="center">
-  <a href="#">
-    <img title="🔥 Streak stats" alt="Mukhtor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aestdile&theme=monokai-metallian&hide_border=true"/>
-  </a>
+  <img title="🔥 Streak stats" alt="Mukhtor's streak" 
+       src="https://streak-stats.demolab.com/?user=aestdile&theme=monokai" />
 </p>
+
+<hr style="border: 1px solid gray; width: 100%;">
+
 
 <hr style="border: 1px solid gray; width: 100%;">
 
@@ -95,7 +97,7 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 ## 💻 Programming Languages and Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestdile&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
 
 <hr style="border: 1px solid gray; width: 100%;">
