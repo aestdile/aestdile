@@ -19,11 +19,10 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 
 <hr style="border: 1px solid gray; width: 100%;">
 
-## 🏆 GitHub Stats
+### 🏆 GitHub Statistikasi
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aestdile&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ## 🔥 Streak Stats
 
