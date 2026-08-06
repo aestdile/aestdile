@@ -142,6 +142,4 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 
 <div align="center">
 
-⭐️ Agar profilim yoqqan bo'lsa, GitHub'da kuzatib boring!
-
 </div>
