@@ -139,6 +139,7 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 </div>
 
 
+
 <svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -242,6 +243,4 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
   <text x="600" y="148" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#FF666680" text-anchor="middle">// end of transmission</text>
 </svg>
 
-<div align="center">
 
-</div>
