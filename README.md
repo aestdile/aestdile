@@ -139,7 +139,108 @@ I specialize in building backend applications with **C#**, **ASP.NET**, **RESTFU
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0208"/>
+      <stop offset="50%" stop-color="#3a0000"/>
+      <stop offset="100%" stop-color="#0D0208"/>
+    </linearGradient>
+    <radialGradient id="webGlowL" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF0000" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF0000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="webGlowR" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF0000" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF0000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <!-- glow behind webs -->
+  <circle cx="0" cy="0" r="260" fill="url(#webGlowL)"/>
+  <circle cx="1200" cy="0" r="260" fill="url(#webGlowR)"/>
+  <circle cx="0" cy="220" r="200" fill="url(#webGlowL)"/>
+  <circle cx="1200" cy="220" r="200" fill="url(#webGlowR)"/>
+
+  <!-- ===== Top-left spider web ===== -->
+  <g stroke="#FF3333" stroke-width="1.2" fill="none" opacity="0.75">
+    <line x1="0" y1="0" x2="220" y2="0"/>
+    <line x1="0" y1="0" x2="180" y2="60"/>
+    <line x1="0" y1="0" x2="130" y2="110"/>
+    <line x1="0" y1="0" x2="70" y2="150"/>
+    <line x1="0" y1="0" x2="0" y2="180"/>
+    <path d="M 40 0 Q 30 25 0 30"/>
+    <path d="M 90 0 Q 65 55 0 65"/>
+    <path d="M 140 0 Q 95 90 0 105"/>
+    <path d="M 190 0 Q 120 130 0 150"/>
+  </g>
+
+  <!-- ===== Top-right spider web ===== -->
+  <g stroke="#FF3333" stroke-width="1.2" fill="none" opacity="0.75">
+    <line x1="1200" y1="0" x2="980" y2="0"/>
+    <line x1="1200" y1="0" x2="1020" y2="60"/>
+    <line x1="1200" y1="0" x2="1070" y2="110"/>
+    <line x1="1200" y1="0" x2="1130" y2="150"/>
+    <line x1="1200" y1="0" x2="1200" y2="180"/>
+    <path d="M 1160 0 Q 1170 25 1200 30"/>
+    <path d="M 1110 0 Q 1135 55 1200 65"/>
+    <path d="M 1060 0 Q 1105 90 1200 105"/>
+    <path d="M 1010 0 Q 1080 130 1200 150"/>
+  </g>
+
+  <!-- ===== Bottom-left spider web ===== -->
+  <g stroke="#FF3333" stroke-width="1.1" fill="none" opacity="0.6">
+    <line x1="0" y1="220" x2="180" y2="220"/>
+    <line x1="0" y1="220" x2="150" y2="170"/>
+    <line x1="0" y1="220" x2="100" y2="130"/>
+    <line x1="0" y1="220" x2="0" y2="90"/>
+    <path d="M 30 220 Q 22 200 0 195"/>
+    <path d="M 70 220 Q 50 165 0 155"/>
+    <path d="M 110 220 Q 75 130 0 115"/>
+  </g>
+
+  <!-- ===== Bottom-right spider web ===== -->
+  <g stroke="#FF3333" stroke-width="1.1" fill="none" opacity="0.6">
+    <line x1="1200" y1="220" x2="1020" y2="220"/>
+    <line x1="1200" y1="220" x2="1050" y2="170"/>
+    <line x1="1200" y1="220" x2="1100" y2="130"/>
+    <line x1="1200" y1="220" x2="1200" y2="90"/>
+    <path d="M 1170 220 Q 1178 200 1200 195"/>
+    <path d="M 1130 220 Q 1150 165 1200 155"/>
+    <path d="M 1090 220 Q 1125 130 1200 115"/>
+  </g>
+
+  <!-- ===== Small spiders on webs ===== -->
+  <g transform="translate(55,45)" fill="#0D0208" stroke="#FF3333" stroke-width="1">
+    <line x1="0" y1="0" x2="0" y2="-14" stroke-opacity="0.6"/>
+    <ellipse cx="0" cy="0" rx="5" ry="7"/>
+    <circle cx="0" cy="-6" r="3"/>
+    <line x1="-5" y1="-2" x2="-11" y2="-6"/>
+    <line x1="-5" y1="2" x2="-11" y2="6"/>
+    <line x1="5" y1="-2" x2="11" y2="-6"/>
+    <line x1="5" y1="2" x2="11" y2="6"/>
+    <line x1="-4" y1="4" x2="-9" y2="10"/>
+    <line x1="4" y1="4" x2="9" y2="10"/>
+  </g>
+
+  <g transform="translate(1145,45) scale(-1,1)" fill="#0D0208" stroke="#FF3333" stroke-width="1">
+    <line x1="0" y1="0" x2="0" y2="-14" stroke-opacity="0.6"/>
+    <ellipse cx="0" cy="0" rx="5" ry="7"/>
+    <circle cx="0" cy="-6" r="3"/>
+    <line x1="-5" y1="-2" x2="-11" y2="-6"/>
+    <line x1="-5" y1="2" x2="-11" y2="6"/>
+    <line x1="5" y1="-2" x2="11" y2="-6"/>
+    <line x1="5" y1="2" x2="11" y2="6"/>
+    <line x1="-4" y1="4" x2="-9" y2="10"/>
+    <line x1="4" y1="4" x2="9" y2="10"/>
+  </g>
+
+  <!-- Center text -->
+  <text x="600" y="120" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="bold" fill="#FF3333" text-anchor="middle">&lt; connection_secured /&gt;</text>
+  <text x="600" y="148" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#FF666680" text-anchor="middle">// end of transmission</text>
+</svg>
 
 <div align="center">
 
