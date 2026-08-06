@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mukhtor%20Eshboyev&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Junior%20.NET%20Developer%20|%20Backend%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0208,50:8B0000,100:1a0000&height=200&section=header&text=Mukhtor%20Eshboyev&fontSize=45&fontColor=FF0000&animation=fadeIn&fontAlignY=35&desc=Junior%20.NET%20Developer%20|%20Backend%20Engineer&descAlignY=55&descAlign=50&descColor=FF3333" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=whoami+%3E+.NET+Developer;sudo+access+%3E+granted;system.status+%3D+%22learning%22" alt="Typing SVG" />
 <br/>
 
 <img src="https://img.shields.io/badge/💻%20C%23%20.NET-Gray?style=for-the-badge&logo=csharp&logoColor=white" />
